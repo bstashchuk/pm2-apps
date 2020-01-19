@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "name": "express-web-server",
+      "cwd": "/Users/bogdan/Desktop/pm2-apps/express-web-server",
+      "script": "app.js",
+      "watch": true,
+      "ignore_watch": ["node_modules"],
+      "env": {
+        "EXPRESS_PORT": 3013,
+        "DEBUG": "express"
+      }
+    },
+    {
+      "name": "flask-web-server",
+      "cwd": "/Users/bogdan/Desktop/pm2-apps/flask-web-server",
+      "script": "app.py"
+    }
+  ]
+}
