@@ -13,5 +13,5 @@ Final project for the PM2 Tutorial
 `pm2 start pm2-apps-config.json`
 
 ## Testing
-Node.js Express Web server is running at http://localhost:3013
-Python Flask Web server is running at http://localhost:4010
+- Node.js Express Web server is running at http://localhost:3013
+- Python Flask Web server is running at http://localhost:4010
